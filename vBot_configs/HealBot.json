@@ -70,11 +70,19 @@
       "itemTable": [
         {
           "sign": "<",
-          "origin": "MP%",
-          "value": 50,
-          "item": 237,
           "index": 1,
+          "origin": "MP%",
+          "item": 237,
+          "value": 50,
           "enabled": true
+        },
+        {
+          "enabled": true,
+          "origin": "MP%",
+          "value": 95,
+          "item": 268,
+          "index": 2,
+          "sign": "<"
         }
       ]
     },
